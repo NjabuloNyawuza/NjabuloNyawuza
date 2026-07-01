@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, 
 
-<!--
-**NjabuloNyawuza/NjabuloNyawuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Software Engineering (Honours) student in South Africa, currently interning as a **Developer at Izzat Technologies**, a digital transformation company focused on township, peri-urban, and rural economies.
 
-Here are some ideas to get you started:
+I build products that solve problems I've actually lived — from community safety to peer tutoring to everyday tools people use in groups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  BSc IT Honours (Software Engineering), Eduvos — completing Dec 2026
+-  Developer Intern @ Izzat Technologies
+-  Microsoft Certified: [Information Security Administrator Associate](https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/), [M365 Administrator Expert](https://learn.microsoft.com/en-gb/credentials/certifications/m365-administrator-expert/), [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+-  Currently deepening: mobile development, systems integration, and writing code without over-relying on AI tooling
+-  Reach me on [LinkedIn](#www.linkedin.com/in/njabulo-nyawuza-4108a7305) or via [email](#njabulonyawuza12@gmail.com)
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[WatchfulAI](https://github.com/NjabuloNyawuza/watchfulai-backend)** | Community safety early-alert system combining WhatsApp reports, a Raspberry Pi sensor, and an AI correlation engine — built for Discovery GradHack 2026 | Python, HuggingFace NLP, Supabase, Twilio |
+| **[PropertyHub](#)** | Full-stack real estate platform with property listings, agent profiles, an admin dashboard, and image uploads | HTML, CSS, JavaScript, PHP, MySQL |
+| **MentorMe** | Mobile app connecting students with verified peer tutors, with profile ratings, group sessions, and a gamified badge system — built during a hackathon | Android Studio, MySQL, Figma |
+| **[BillBuddy](#)** | Web app for splitting bills and calculating tips across groups, with multi-currency support and calculation history | HTML, CSS, JavaScript, Local Storage |
+| **[UbuntuWheels](https://github.com/NjabuloNyawuza/Ubuntu-Wheels)** | Car dealership website with listings and inquiry handling | HTML, CSS, JavaScript, PHP, MySQL |
+| **[Flappy Bird Clone](https://github.com/NjabuloNyawuza/Flappy-Bird-Clone)** | Java/Swing recreation of Flappy Bird — game loop, collision detection, and input handling | Java, Swing |
+
+## Tech Stack
+
+**Languages:** JavaScript, Python, Java, PHP, SQL
+**Frontend:** HTML5, CSS3, Android Studio
+**Backend:** PHP, Python
+**Data:** MySQL, Supabase
+**Design/Tools:** Figma, Git
+
+---
+*Open to feedback, collaboration, and interesting problems.*
