@@ -1,6 +1,6 @@
 # Hi,
 
-I am a final-year Software Engineering (Honours) student in South Africa, currently interning as a **Developer at Izzat Technologies**, a digital transformation company focused on township, peri-urban, and rural economies.
+I am a Magna Cum Laude graduate in BSc Software Engineering, and a final-year Software Engineering (Honours) student in South Africa, currently interning as a **Developer at Izzat Technologies**, a digital transformation company focused on township, peri-urban, and rural economies.
 
 I build products that solve problems I've actually lived — from community safety to peer tutoring to everyday tools people use in groups.
 
