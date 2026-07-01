@@ -17,7 +17,7 @@ I build products that solve problems I've actually lived — from community safe
 | **[WatchfulAI](https://github.com/NjabuloNyawuza/watchfulai-backend)** | Community safety early-alert system combining WhatsApp reports, a Raspberry Pi sensor, and an AI correlation engine — built for Discovery GradHack 2026 | Python, HuggingFace NLP, Supabase, Twilio |
 | **[PropertyHub](#)** | Full-stack real estate platform with property listings, agent profiles, an admin dashboard, and image uploads | HTML, CSS, JavaScript, PHP, MySQL |
 | **MentorMe** | Mobile app connecting students with verified peer tutors, with profile ratings, group sessions, and a gamified badge system — built during a hackathon | Android Studio, MySQL, Figma |
-| **[BillBuddy](#)** | Web app for splitting bills and calculating tips across groups, with multi-currency support and calculation history | HTML, CSS, JavaScript, Local Storage |
+| **[BillBuddy](#https://github.com/NjabuloNyawuza/BillSplitter)** | Web app for splitting bills and calculating tips across groups, with multi-currency support and calculation history | HTML, CSS, JavaScript, Local Storage |
 | **[UbuntuWheels](https://github.com/NjabuloNyawuza/Ubuntu-Wheels)** | Car dealership website with listings and inquiry handling | HTML, CSS, JavaScript, PHP, MySQL |
 | **[Flappy Bird Clone](https://github.com/NjabuloNyawuza/Flappy-Bird-Clone)** | Java/Swing recreation of Flappy Bird — game loop, collision detection, and input handling | Java, Swing |
 
