@@ -1,16 +1,16 @@
-# Hi, 
+# Hi,
 
 I am a final-year Software Engineering (Honours) student in South Africa, currently interning as a **Developer at Izzat Technologies**, a digital transformation company focused on township, peri-urban, and rural economies.
 
 I build products that solve problems I've actually lived — from community safety to peer tutoring to everyday tools people use in groups.
 
--  BSc IT Honours (Software Engineering), Eduvos — completing Dec 2026
--  Developer Intern @ Izzat Technologies
--  Microsoft Certified: [Information Security Administrator Associate](https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/), [M365 Administrator Expert](https://learn.microsoft.com/en-gb/credentials/certifications/m365-administrator-expert/), [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
--  Currently deepening: mobile development, systems integration, and writing code without over-relying on AI tooling
--  Reach me on [LinkedIn](#www.linkedin.com/in/njabulo-nyawuza-4108a7305) or via [email](#njabulonyawuza12@gmail.com)
+- BSc IT Honours (Software Engineering), Eduvos — completing Dec 2026
+- Developer Intern @ Izzat Technologies
+- 9 certifications across cloud, security, and software engineering — see below
+- Currently deepening: mobile development, systems integration, and writing code without over-relying on AI tooling
+- 📫 Reach me on [LinkedIn](#www.linkedin.com/in/njabulo-nyawuza-4108a7305) or via [email](#njabulonyawuza12@gmail.com)
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -21,7 +21,21 @@ I build products that solve problems I've actually lived — from community safe
 | **[UbuntuWheels](https://github.com/NjabuloNyawuza/Ubuntu-Wheels)** | Car dealership website with listings and inquiry handling | HTML, CSS, JavaScript, PHP, MySQL |
 | **[Flappy Bird Clone](https://github.com/NjabuloNyawuza/Flappy-Bird-Clone)** | Java/Swing recreation of Flappy Bird — game loop, collision detection, and input handling | Java, Swing |
 
-## Tech Stack
+## 🏆 Certifications
+
+- [Microsoft Certified: Information Security Administrator Associate](https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/)
+- [Microsoft 365 Certified: Administrator Expert](https://learn.microsoft.com/en-gb/credentials/certifications/m365-administrator-expert/)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-gb/credentials/certifications/azure-administrator/)
+- [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-gb/credentials/certifications/microsoft-365-fundamentals/)
+- Cisco: Introduction to Cybersecurity
+- Cybrary: Defensive Security and Cyber Risk
+
+**Job Simulations & Courses**
+- Forage: Skyscanner — Front-End Software Engineering Job Simulation
+- Forage: Mastercard — Cybersecurity Job Simulation
+- Coursera: Build a Free Website with WordPress
+
+## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Python, Java, PHP, SQL
 **Frontend:** HTML5, CSS3, Android Studio
