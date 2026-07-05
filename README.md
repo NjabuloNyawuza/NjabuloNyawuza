@@ -1,11 +1,9 @@
 # Hi,
 
-I am a Magna Cum Laude graduate in BSc Software Engineering, and a final-year Software Engineering (Honours) student in South Africa, currently interning as a **Developer at Izzat Technologies**, a digital transformation company focused on township, peri-urban, and rural economies.
-
+I am a Magna Cum Laude graduate in BSc Software Engineering, and a final-year Software Engineering (Honours) student in South Africa.
 I build products that solve problems I've actually lived — from community safety to peer tutoring to everyday tools people use in groups.
 
 - BSc IT Honours (Software Engineering), Eduvos — completing Dec 2026
-- Developer Intern @ Izzat Technologies
 - 9 certifications across cloud, security, and software engineering — see below
 - Currently deepening: mobile development, systems integration, and writing code without over-relying on AI tooling
 - Reach me on [LinkedIn: www.linkedin.com/in/njabulo-nyawuza-4108a7305] or via [email: njabulonyawuza12@gmail.com]
